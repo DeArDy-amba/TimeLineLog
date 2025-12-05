@@ -1,0 +1,26 @@
+ID_Peminjaman:300001
+Nama_Anggota:fandy ar
+Judul_Buku:Jujutsu Kaisen
+Tgl_Pinjam:7-11-2025
+Tgl_Kembali:7-11-2025
+Status:0
+----
+ID_Peminjaman:300002
+Nama_Anggota:dedi
+Judul_Buku:My Hero Academy
+Tgl_Pinjam:13-11-2025
+Tgl_Kembali:13-11-2025
+Status:0
+----
+ID_Peminjaman:300003
+Nama_Anggota:dedi
+Judul_Buku:My Hero Academy
+Tgl_Pinjam:5-12-2025
+Status:1
+----
+ID_Peminjaman:300004
+Nama_Anggota:ariel ws
+Judul_Buku:My Hero Academy
+Tgl_Pinjam:5-12-2025
+Status:1
+----
