@@ -1,0 +1,16 @@
+ID:200001
+ISBN:978-602-1530-01-6
+Judul:My Hero Academy
+Pengarang:fandy
+Penerbit:fandy
+Tahun:2009
+Stok:8
+----
+ID:200003
+ISBN:978-602-1420-03-4
+Judul:Jujutsu Kaisen
+Pengarang:budi
+Penerbit:budi
+Tahun:2000
+Stok:4
+----
