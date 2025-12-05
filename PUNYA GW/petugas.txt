@@ -1,8 +1,0 @@
-ID:100001
-Username:fandy
-Password:fandy123
-----
-ID:100002
-Username:ariel
-Password:ariel12
-----
